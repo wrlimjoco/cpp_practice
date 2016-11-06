@@ -6,6 +6,6 @@
 
 int main()
 {
-    cout << "Testing CLion for indiviual compilation" << endl;
+    std::cout << "Testing CLion for indiviual compilation" << std::endl;
     return 0;
 }
